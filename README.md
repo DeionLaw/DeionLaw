@@ -1,4 +1,4 @@
-<h1>Hi, I'm Deion - <a href="[https://www.linkedin.com/in/deion-law-ab7260210/]">IT Professional</a>☺</h1>
+<h1>Hi, I'm Deion - <a href="https://www.linkedin.com/in/deion-law-ab7260210/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
